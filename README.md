@@ -22,7 +22,7 @@ jis color name.csv, jis color name.jsx
 　↓　　  
 　↓　　自動生成  
 　↓　　  
-jis color name.psd  
+jis color name_v1.psd, jis color name_v2.psd(等色相面風にレイアウトしたもの)  
 　↓　　  
 　↓　　Photoshopsメニューのファイル＞生成＞画像アセット、から書き出し  
 　↓　　  
