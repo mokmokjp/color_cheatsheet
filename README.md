@@ -1,9 +1,11 @@
 
 # jis color name
 
-JIS慣用色名と、下記を一覧できるようにしました
-色彩検定の学習や、カラーコーディネートに使えます
+JIS慣用色名と、下記を一覧できるようにしました  
+色彩検定の学習や、カラーコーディネートに使えます  
 
+| 項目 | 概要 |
+|--|--|
 |JIS慣用色名|[JIS Z 8102:2001](http://kikakurui.com/z8/Z8102-2001-01.html)で規定されたものを掲載|
 |JIS系統色名|[JIS Z 8102:2001](http://kikakurui.com/z8/Z8102-2001-01.html)で規定されたものを掲載|
 |マンセル値|[JIS Z 8102:2001](http://kikakurui.com/z8/Z8102-2001-01.html)で規定されたものを掲載|
@@ -14,14 +16,14 @@ JIS慣用色名と、下記を一覧できるようにしました
 |CMYK値|近似値を掲載|
 |色彩検定|色彩検定の出題範囲を掲載|
 
-## 使い方
+## 構成
 
-jis color name.csv, jis color name.jsx
-　↓　　
-　↓　　自動生成
-　↓　　
-jis color name.psd
-　↓　　
-　↓　　Photoshopsメニューのファイル＞生成＞画像アセット、から書き出し
-　↓　　
-jis color name-assets
+jis color name.csv, jis color name.jsx  
+　↓　　  
+　↓　　自動生成  
+　↓　　  
+jis color name.psd  
+　↓　　  
+　↓　　Photoshopsメニューのファイル＞生成＞画像アセット、から書き出し  
+　↓　　  
+jis color name-assets  
