@@ -33,13 +33,11 @@ jis color name-assets
 color_cheatsheet.psd
 
 - 色相環比較
-    - HSV
-    - HLS
-    - PCCS
-    - マンセル
-    - オストワルト
-    - NCS
+    - PCCS色相環
+    - マンセル色相環
     - イッテンの色相環(RYB)
+    - HSV/HSL/HSB色相環
+    - HLS/HSL/HSI色相環
 - PCCS トーン図
 - PCCS 明度・彩度一覧表 (JIS慣用色名付き)
 - PCCS S-Lトーングラフ
