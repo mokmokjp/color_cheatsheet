@@ -27,3 +27,21 @@ jis color name_v1.psd, jis color name_v2.psd(等色相面風にレイアウト�
 　↓　　Photoshopsメニューのファイル＞生成＞画像アセット、から書き出し  
 　↓　　  
 jis color name-assets  
+
+## おまけのpsd
+
+color_cheatsheet.psd
+
+- 色相環比較
+    - HSV
+    - HLS
+    - PCCS
+    - マンセル
+    - オストワルト
+    - NCS
+    - イッテンの色相環(RYB)
+- PCCS トーン図
+- PCCS 明度・彩度一覧表 (JIS慣用色名付き)
+- PCCS S-Lトーングラフ
+
+参考: http://www.garakuta.net/color/pccs/matrix.html
