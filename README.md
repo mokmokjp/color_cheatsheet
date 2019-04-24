@@ -18,15 +18,19 @@ JIS慣用色名と、下記を一覧できるようにしました
 
 ## 構成
 
-jis color name.csv, jis color name.jsx  
-　↓　　  
-　↓　　自動生成  
-　↓　　  
-jis color name_v1.psd, jis color name_v2.psd(等色相面風にレイアウトしたもの)  
-　↓　　  
-　↓　　Photoshopsメニューのファイル＞生成＞画像アセット、から書き出し  
-　↓　　  
-jis color name-assets  
+jis color name-assets
+    Photoshopsメニューのファイル＞生成＞画像アセット、から書き出したもの
+color_cheatsheet.psd
+    表色系の比較など
+jis color name.csv
+    色彩検定2級にでるJIS慣用色のリスト
+jis color name.jsx
+    jis color name_v1.psdを生成するスクリプト
+jis color name_v1.psd
+    色彩検定2級にでるJIS慣用色のリスト
+jis color name_v2.psd
+    jis color name_v1.psdを、等色相面風にレイアウトしたもの
+
 
 ## おまけのpsd
 
