@@ -1,4 +1,16 @@
 
+# color_cheatsheet.psd
+
+- 色相環比較
+    - PCCS色相環
+    - マンセル色相環
+    - イッテンの色相環(RYB)
+    - HSV/HSL/HSB色相環
+    - HLS/HSL/HSI色相環
+- PCCS トーン図
+- PCCS 明度・彩度一覧表 (JIS慣用色名付き)
+- PCCS S-Lトーングラフ
+
 # jis color name
 
 JIS慣用色名と、下記を一覧できるようにしました  
@@ -16,34 +28,15 @@ JIS慣用色名と、下記を一覧できるようにしました
 |CMYK値|近似値を掲載|
 |色彩検定|色彩検定の出題範囲を掲載|
 
-## 構成
-
-jis color name-assets
+- jis color name-assets
     Photoshopsメニューのファイル＞生成＞画像アセット、から書き出したもの
-color_cheatsheet.psd
-    表色系の比較など
-jis color name.csv
+- jis color name.csv
     色彩検定2級にでるJIS慣用色のリスト
-jis color name.jsx
+- jis color name.jsx
     jis color name_v1.psdを生成するスクリプト
-jis color name_v1.psd
+- jis color name_v1.psd
     色彩検定2級にでるJIS慣用色のリスト
-jis color name_v2.psd
+- jis color name_v2.psd
     jis color name_v1.psdを、等色相面風にレイアウトしたもの
-
-
-## おまけのpsd
-
-color_cheatsheet.psd
-
-- 色相環比較
-    - PCCS色相環
-    - マンセル色相環
-    - イッテンの色相環(RYB)
-    - HSV/HSL/HSB色相環
-    - HLS/HSL/HSI色相環
-- PCCS トーン図
-- PCCS 明度・彩度一覧表 (JIS慣用色名付き)
-- PCCS S-Lトーングラフ
 
 参考: http://www.garakuta.net/color/pccs/matrix.html
